@@ -1,6 +1,6 @@
 {
     "name": "Wordy",
-    "version": "0.1.0",
+    "version": "0.2.1",
     "description": "Wordy, random Japanese grammar in your new tab.",
     "icons": {
         "128": "icon128.png"
